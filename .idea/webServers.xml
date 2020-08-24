@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e86b6626-f800-499d-a2a9-504b92a74d4f" name="Open Server" url="http://localhost">
+        <fileTransfer mountedRoot="K:\OSPanel\domains\phpBasic" accessType="MOUNT" port="0" />
+      </webServer>
+      <webServer id="53a5fc1f-4e05-45b9-9647-0d20b1676890" name="XAMPP" url="http://localhost">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\basikPHP" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
